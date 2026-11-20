@@ -1,0 +1,6 @@
+{
+  "name": "SURAKSHINI AI",
+  "description": "Your Voice. Your Safety. Your Digital Shield. A voice-enabled, multilingual cyberbullying detection, screenshot analysis, and digital safety AI companion supporting English, Kannada, and Kanglish.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
